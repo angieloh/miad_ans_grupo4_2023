@@ -21,7 +21,14 @@ El aprendizaje no supervisado tiene el potencial de agrupar a las personas en ca
 /docs: Documentación adicional sobre el proyecto y los resultados.
 
 ## Contribución
-Si deseas contribuir a este proyecto o tienes sugerencias, ¡estamos abiertos a colaboraciones! Para contribuir, contacta con nosotros vía correo electrónico en tu-correo@uniandes.edu.co para discutir tus ideas o sugerencias.
+Si deseas contribuir a este proyecto o tienes sugerencias, ¡estamos abiertos a colaboraciones! Para contribuir, contacta con nosotros vía correo electrónico en
+
+* a.hidalgod@uniandes.edu.co
+* d.castillot2@uniandes.edu.co
+* a.sernat@uniandes.edu.co
+* k.russi@uniandes.edu.co
+Como propietarios de los correos anteriores estaremos listos para discutir tus ideas o sugerencias.
+
 ¡Esperamos con interés tu colaboración!
 
 
