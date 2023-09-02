@@ -27,6 +27,7 @@ Si deseas contribuir a este proyecto o tienes sugerencias, ¡estamos abiertos a 
 * d.castillot2@uniandes.edu.co
 * a.sernat@uniandes.edu.co
 * k.russi@uniandes.edu.co
+  
 Como propietarios de los correos anteriores estaremos listos para discutir tus ideas o sugerencias.
 
 ¡Esperamos con interés tu colaboración!
