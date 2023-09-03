@@ -13,13 +13,13 @@ El aprendizaje no supervisado tiene el potencial de agrupar a las personas en ca
 
 ## Contenido del Repositorio
 
-[/data]: Contiene el conjunto de datos utilizado en el análisis.](https://github.com/angieloh/miad_ans_grupo4_2023/tree/main/data)
+[/data](https://github.com/angieloh/miad_ans_grupo4_2023/tree/main/data): Contiene el conjunto de datos utilizado en el análisis.
 
-[/notebooks]: Contiene los notebooks de Jupyter utilizados para el análisis.(https://github.com/angieloh/miad_ans_grupo4_2023/tree/main/docs)
+[/notebooks](https://github.com/angieloh/miad_ans_grupo4_2023/tree/main/notebooks): Contiene los notebooks de Jupyter utilizados para el análisis.
 
-[/results]: Contiene los resultados del análisis.
+[/results](https://github.com/angieloh/miad_ans_grupo4_2023/tree/main/results): Contiene los resultados del análisis.
 
-/docs: Documentación adicional sobre el proyecto y los resultados.
+[/docs](https://github.com/angieloh/miad_ans_grupo4_2023/tree/main/docs): Documentación adicional sobre el proyecto y los resultados.
 
 ## Contribución
 Si deseas contribuir a este proyecto o tienes sugerencias, ¡estamos abiertos a colaboraciones! Para contribuir, contacta con nosotros vía correo electrónico en
